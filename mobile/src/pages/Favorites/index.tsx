@@ -12,7 +12,7 @@ function Favorites() {
       <PageHeader title="Meus proffys Favoritos" />
 
       <ScrollView
-        style={styles.teacherList}
+        style={styles.favoriteList}
         contentContainerStyle={{
           paddingHorizontal: 16,
           paddingBottom: 16,
