@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color: #000;">
   <img src=".github/logo.svg" alt="Logo" height="70">
 </h1>
 
