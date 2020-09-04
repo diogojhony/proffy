@@ -17,3 +17,9 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/diogojhony/proffy?color=%239871F5">
 </p>
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more information.
+
+Made with ❤️ by **Diogo Jhony** 👋 [Get in touch!](www.linkedin.com/in/diogojhony) 
