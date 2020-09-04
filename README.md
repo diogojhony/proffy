@@ -27,8 +27,65 @@ This project was developed with the following technologies:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+## 💻 Getting started
+
+To clone and run this application, you'll need [Git](https://git-scm.com/), [Node.js v10.16](https://nodejs.org) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer.
+
+**Clone this project and access your folder:**
+```bash
+$ git clone https://github.com/diogojhony/proffy.git
+```
+
+**Follow the steps below**
+
+### Backend
+
+```bash
+# Access the server folder
+$ cd server
+
+# Install the dependencies
+$ yarn install
+
+# Run the migrations
+$ yarn knex migrate:latest
+
+# To finish, start backend server
+$ yarn dev
+```
+
+### Web
+
+> Obs.: Before to continue, be sure to have the backend server is running
+
+```bash
+# Access the web folder
+$ cd web
+
+# Install the dependencies
+$ yarn install
+
+# Start the web client
+$ yarn start
+```
+
+### Mobile
+
+> Obs.: Before to continue, be sure to have the backend server is running
+
+```bash
+# Access the mobile folder
+$ cd mobile
+
+# Install the dependencies
+$ yarn install
+
+# Start the expo service, open Expo Client on your device and scan the QR code
+$ yarn start
+```
+
 ## 📝 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more information.
 
-Made with ❤️ by **Diogo Jhony** 👋 [Get in touch!](www.linkedin.com/in/diogojhony) 
+Made with ❤️ by **Diogo Jhony** 👋 [Get in touch!](www.linkedin.com/in/diogojhony)
