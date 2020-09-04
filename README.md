@@ -24,6 +24,8 @@
   <a href="#-license">License</a>
 </p>
 
+<img alt="Layout" src=".github/banner.png">
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
