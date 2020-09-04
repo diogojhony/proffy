@@ -96,4 +96,4 @@ $ yarn start
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more information.
 
-Made with ❤️ by **Diogo Jhony** 👋 [Get in touch!](www.linkedin.com/in/diogojhony)
+Made with ❤️ by **Diogo Jhony** 👋 [Get in touch!](https://linkedin.com/in/diogojhony)
