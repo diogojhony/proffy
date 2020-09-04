@@ -18,6 +18,12 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/diogojhony/proffy?color=%239871F5">
 </p>
 
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
