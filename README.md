@@ -18,6 +18,15 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/diogojhony/proffy?color=%239871F5">
 </p>
 
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
 ## 📝 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more information.
